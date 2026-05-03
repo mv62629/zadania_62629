@@ -1,0 +1,112 @@
+{
+  "profile": {
+    "name": "Maksym Vintoniak",
+    "title": "Backend Developer",
+    "photo": "photo.jpg",
+    "photoAlt": "Zdjecie profilowe Maksym Vintoniak - Backend Developer"
+  },
+  "sections": {
+    "contact": {
+      "title": "Kontakt",
+      "email": "v1nt0xa.cc@gmail.com",
+      "phone": "+48 575 865 718",
+      "location": "Warszawa, Polska",
+      "social": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/vintoxa"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/maksym-vintoniak-a90b1a309"
+        },
+        {
+          "label": "Upwork",
+          "url": "https://www.upwork.com/freelancers/~016d95c46bcce6b50c"
+        },
+        {
+          "label": "Portfolio",
+          "url": "https://vintoniak.pl/"
+        }
+      ]
+    },
+    "about": {
+      "title": "O mnie",
+      "text": "Jestem studentem Akademii Finansow i Biznesu Vistula oraz pasjonatem programowania z doswiadczeniem w tworzeniu aplikacji webowych. Specjalizuje sie w technologiach backend (PHP, MySQL) oraz nowoczesnych frameworkach JavaScript (React, Next.js, Angular). Pracuje jako Backend Developer w firmie Viva Partner oraz realizuje projekty na platformie Upwork. Lubie rozwiazywac zlozone problemy biznesowe poprzez tworzenie efektywnych i skalowalnych rozwiazan technicznych."
+    },
+    "skills": {
+      "title": "Umiejetnosci",
+      "items": [
+        "JavaScript 123 - zaawansowana znajomosc",
+        "React i Next.js - tworzenie SPA i SSR",
+        "Angular - framework frontend",
+        "PHP - backend development",
+        "MySQL - projektowanie i optymalizacja baz danych",
+        "HTML5 i CSS3 - semantyczny markup i nowoczesne style",
+        "Bootstrap - responsywne interfejsy",
+        "jQuery - manipulacja DOM i AJAX"
+      ]
+    },
+    "experience": {
+      "title": "Doswiadczenie",
+      "items": [
+        {
+          "company": "Viva Partner",
+          "role": "Backend Developer",
+          "period": "2023 - obecnie",
+          "description": "Rozwoj i utrzymanie systemow backendowych w PHP i MySQL. Projektowanie architektury baz danych, optymalizacja zapytan SQL oraz tworzenie REST API. Implementacja nowych funkcjonalnosci biznesowych, integracja z zewnetrznymi serwisami oraz zapewnienie bezpieczenstwa aplikacji."
+        },
+        {
+          "company": "Upwork (Freelance)",
+          "role": "Full Stack Developer",
+          "period": "2024 - obecnie",
+          "description": "Realizacja projektow dla klientow miedzynarodowych jako niezalezny programista. Tworzenie aplikacji webowych od podstaw z wykorzystaniem JavaScript, PHP, React oraz MySQL. Budowanie responsywnych interfejsow i pelna odpowiedzialnosc za jakosc kodu."
+        }
+      ]
+    },
+    "education": {
+      "title": "Edukacja",
+      "items": [
+        {
+          "school": "Akademia Finansow i Biznesu Vistula",
+          "degree": "Informatyka - studia licencjackie",
+          "period": "2022 - obecnie",
+          "description": "Zdobywanie wiedzy z zakresu programowania, baz danych i inzynierii oprogramowania. Aktywny udzial w projektach studenckich wykorzystujacych nowoczesne technologie webowe."
+        },
+        {
+          "school": "Koledz Politechniki",
+          "degree": "Technik Informatyk",
+          "period": "2018 - 2022",
+          "description": "Nauka podstaw programowania, administracji systemami oraz tworzenia aplikacji webowych z wykorzystaniem HTML, CSS, JavaScript, PHP i MySQL."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Projekty",
+      "items": [
+        {
+          "name": "Search Influencers and Projects - YinYang Platform",
+          "description": "Platforma do odkrywania influencerow i projektow kryptowalutowych z inteligentnymi filtrami.",
+          "stack": ["JavaScript", "jQuery", "PHP", "MySQL"],
+          "published": "17 lutego 2025"
+        },
+        {
+          "name": "Scan to Find - MyQR.center",
+          "description": "System zarzadzania zgubionymi rzeczami przez kody QR z powiadomieniami lokalizacji.",
+          "stack": ["JavaScript", "PHP", "MySQL", "Dashboard"],
+          "published": "17 lutego 2025"
+        },
+        {
+          "name": "Real Estate Website - RentDoba",
+          "description": "Strona do wyszukiwania mieszkan na wynajem z filtrami i responsywnym interfejsem.",
+          "stack": ["JavaScript", "PHP", "jQuery", "Bootstrap", "MySQL"],
+          "published": "19 lutego 2025"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "copyright": "2026 Maksym Vintoniak. Wszelkie prawa zastrzezone.",
+    "lastUpdate": "23 lutego 2026"
+  }
+}
